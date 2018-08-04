@@ -1,7 +1,7 @@
 <html>
     <head>    
         <script src="js/jquery-3.3.1.min.js"></script>
-        <script  src="js/operation.js"></script>
+        <script  src="js/smm-api-1.0.js"></script>
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
    
